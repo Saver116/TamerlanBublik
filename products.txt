@@ -1,0 +1,5 @@
+Gojo Figure,10,gojo2.jpg
+Guts Figure,80,Guts.jpg
+Luffy Figure,50,Luffy.jpg
+Denji Figure,100,denji.jpg
+Madara Figure,50,Madara.jpg
